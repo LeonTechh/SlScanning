@@ -6,3 +6,8 @@ Caso você não tenha instalado os pacotes do Google, siga os passos abaixo:
 4 - Clique em 'Executar como Administrador';
 5 - Após abrir, digite, "pip install Google";
 6 - Pronto;
+
+
+Agora é só usar!!!
+print("Aproveite")
+
