@@ -1,0 +1,8 @@
+Caso você não tenha instalado os pacotes do Google, siga os passos abaixo:
+
+1 - Abra o 'Menu iniciar';
+2 - Procure por 'CMD' 
+3 - Clique botão direito;
+4 - Clique em 'Executar como Administrador';
+5 - Após abrir, digite, "pip install Google";
+6 - Pronto;
